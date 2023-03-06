@@ -5,11 +5,12 @@
 
 ## Overview
 
-A webpage for searching for a location using an API.
+A webpage for searching for a location, using an API
 
 ## Getting Started
 
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+- Within the Terminal type `npx create-react-app city-explorer`
+-
 
 ## Architecture
 
